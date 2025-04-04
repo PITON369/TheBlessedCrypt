@@ -8,6 +8,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.3" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.3" />
+    <PackageReference Include="OpenAI" Version="1.6.0" />
     <PackageReference Include="Telegram.Bot" Version="22.5.0-dev.24" />
   </ItemGroup>
 
